@@ -11,7 +11,7 @@ Entwickle ein einfaches Backend für eine Mini-Blog. Nutzer:innen sollen Blogbei
 - Anzeige der Beiträge nach Erstellungsdatum sortiert (neueste zuerst)
 - (Optional) Pagination für die Beitragsübersicht
 
-🛠️ Technologiestack:
+🛠️ Technologie Stack:
 - Java 17 oder höher
 - Spring Boot (oder ein vergleichbares Java-Framework)
 
