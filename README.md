@@ -5,7 +5,6 @@
 Entwickle ein einfaches Backend für eine Mini-Blog. Nutzer:innen sollen Blogbeiträge erstellen, lesen, bearbeiten und löschen können (CRUD). Zusätzlich sollen Kommentare zu einzelnen Blogposts möglich sein. Die Beiträge sollen chronologisch (neueste zuerst) angezeigt werden.
 
 📦 Anforderungen
-Funktionale Anforderungen:
 
 - Vollständiges CRUD für Blogposts
 - Kommentare zu einem Blogpost hinzufügen
